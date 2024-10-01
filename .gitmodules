@@ -1,4 +1,3 @@
 [submodule "GLideN64"]
 	path = GLideN64
 	url = https://github.com/Azyzraissi/GLideN64.git
-	branch = master
